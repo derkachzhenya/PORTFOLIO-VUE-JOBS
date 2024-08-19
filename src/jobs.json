@@ -13,7 +13,6 @@
         "contactEmail": "contact@teksolutions.com",
         "contactPhone": "555-555-5555"
       }
-      
     },
     {
       "id": "2",
@@ -83,6 +82,34 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "37ed",
+      "title": "MacKensie Clements",
+      "type": "Full-Time",
+      "description": "Ducimus do culpa fu",
+      "salary": "$175K - $200K",
+      "location": "Quos vitae qui possi",
+      "company": {
+        "name": "Young and Rowe Associates",
+        "description": "Rerum quaerat sint e",
+        "contactEmail": "lejud@mailinator.com",
+        "contactPhone": "+1 (623) 919-6914"
+      }
+    },
+    {
+      "id": "1357",
+      "title": "Nicholas Mueller",
+      "type": "Part-Time",
+      "description": "Ullamco sit id dolor",
+      "salary": "Over $200K",
+      "location": "Mollit ducimus aute",
+      "company": {
+        "name": "Walters Trujillo Traders",
+        "description": "Eu autem fuga Omnis",
+        "contactEmail": "pinozu@mailinator.com",
+        "contactPhone": "+1 (999) 713-7201"
       }
     }
   ]
